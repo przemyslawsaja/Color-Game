@@ -1,7 +1,16 @@
-# Color-Game
+# Project Title
 
 RGB color guessing game.
-Great tool to practice your rgb knowladgde.
 
-DEMO: https://przemyslawsaja.github.io/Color-Game/
+## Getting Started
+
+This tool will help you practice your rgb knowladgde.
+
+## Built With
+
+* javascript
+
+## DEMO
+
+https://przemyslawsaja.github.io/Color-Game/
 
